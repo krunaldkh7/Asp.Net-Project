@@ -1,0 +1,7 @@
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\WP_Freelance.dll.config
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\WP_Freelance.dll
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\WP_Freelance.pdb
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\obj\Debug\WP_Freelance.csprojAssemblyReference.cache
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\obj\Debug\WP_Freelance.csproj.CoreCompileInputs.cache
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\obj\Debug\WP_Freelance.dll
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\obj\Debug\WP_Freelance.pdb
