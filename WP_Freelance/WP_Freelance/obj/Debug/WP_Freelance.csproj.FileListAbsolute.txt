@@ -5,3 +5,17 @@ C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\obj\Debug\WP_Freel
 C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\obj\Debug\WP_Freelance.csproj.CoreCompileInputs.cache
 C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\obj\Debug\WP_Freelance.dll
 C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\obj\Debug\WP_Freelance.pdb
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.Helpers.dll
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.Mvc.dll
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.Razor.dll
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.WebPages.Deployment.dll
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.WebPages.dll
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.WebPages.Razor.dll
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.Helpers.xml
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.Mvc.xml
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.Razor.xml
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.WebPages.xml
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.WebPages.Deployment.xml
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\bin\System.Web.WebPages.Razor.xml
+C:\Users\patel\source\repos\Project\WP_Freelance\WP_Freelance\obj\Debug\WP_Freelance.csproj.CopyComplete
