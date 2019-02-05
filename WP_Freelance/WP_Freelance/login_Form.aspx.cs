@@ -4,6 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.Data.SqlClient;
+using System.Configuration;
 
 namespace WP_Freelance
 {
@@ -12,6 +14,12 @@ namespace WP_Freelance
         protected void Page_Load(object sender, EventArgs e)
         {
 
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Label1.Text = "ÿou are Successfully login...!";
+            Label1.Visible = true;
         }
     }
 }
